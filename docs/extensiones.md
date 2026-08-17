@@ -7,6 +7,7 @@ Herramientas:
 - [CodeSnap][codesnap] (adpyke)
 - [Prettier - Code formatter][prettier] (Prettier)
 - [Todo Tree][todo-tree] (Gruntfuggly)
+- [vscode-pdf][vscode-pdf] (tomoki1207)
 
 Comandos de personalización:
 
@@ -39,6 +40,7 @@ Temas de íconos de archivo:
 [codesnap]: https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap
 [prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 [todo-tree]: https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
+[vscode-pdf]: https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf
 
 [andromeda]: https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda
 [bearded]: https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme

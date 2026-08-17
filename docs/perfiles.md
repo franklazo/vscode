@@ -8,12 +8,12 @@ Para diferentes ecosistemas:
 
 Configuración por defecto:
 
-- *Settings*
 - *Keyboard Shortcuts*
+- *Tasks*
+- *MCP Servers*
 
 Configuración por ecosistema:
 
-- *Tasks*
-- *MCP Servers*
+- *Settings*
 - *Snippets*
 - *Extensions*
